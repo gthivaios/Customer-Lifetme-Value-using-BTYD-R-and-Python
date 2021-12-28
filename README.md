@@ -8,6 +8,12 @@ We Calculate CLV metrics mainly for two reasons in order to expand our business:
 For custom segmentations based on long history purchase behavior and for media audiences and measurement
 ## BTYD package - Methodology
 “Buy Till You Die” probabilistic models help us in quantifying the lifetime value of a customer by assessing the expected number of his future transactions and his probability of being “alive”. BTYD methodology contains models to capture non-contractual purchasing behavior of customers. We have applied BG/BB probability models to datasets that have the transaction history for a specific brand.
+Applications of probabilistic models:
+1. Summarize and interpret patterns of market-level behavior
+2. Predict behavior in future periods, be it in the aggregate or at a more granular level (e.g., conditional on past behavior)
+3. Create market segments based on customer’s future value (Low/Mid/High - Engagement)
+4. Capture the campaign effect for the customers’ long term period.
+
 Building a probabilistic model:
 To fit the BG/BB model, the customer-level information has to be classified based on “recency” and “frequency” of each individual customer’s purchases
 
