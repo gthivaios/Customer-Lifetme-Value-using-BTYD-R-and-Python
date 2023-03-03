@@ -31,11 +31,7 @@ So for our business case we have the discrete transaction opportunity, in weekly
 
 Customer lifetime value definition:
 “The present value of the future cash flows attributed to the customer during his/her entire relationship with the company”
-## Introduction - The goal
-The goal is to identify opportunities for different customer segments based on CLV estimations and provide relevant recommendations
-We have to face the challenge of non-contractual markets. How do we differentiate between those customers who have ended their relationship with the firm versus those who are simply in the midst of a long history between transactions?
-We Calculate CLV metrics mainly for two reasons in order to expand our business: 
-For custom segmentations based on long history purchase behavior and for media audiences and measurement
+
 ## BTYD package - Methodology
 “Buy Till You Die” probabilistic models help us in quantifying the lifetime value of a customer by assessing the expected number of his future transactions and his probability of being “alive”. BTYD methodology contains models to capture non-contractual purchasing behavior of customers. We have applied BG/BB probability models to datasets that have the transaction history for a specific brand.
 
