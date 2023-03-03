@@ -59,7 +59,9 @@ The implementation takes part with R and Python accordingly using the correspond
 ## Supported Models:
 
 [Modeling Discrete-Time Transactions Using the BG/BB Model](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1056&context=wharton_research_scholars)
+
 [Customer Base Analysis with BTYDplus](https://cran.r-project.org/web/packages/BTYDplus/vignettes/BTYDplus-HowTo.pdf)
+
 [Lifetimes Package in Python](https://lifetimes.readthedocs.io/en/latest/Quickstart.html)
 
 
