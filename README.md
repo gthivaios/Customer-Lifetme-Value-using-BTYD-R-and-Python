@@ -31,9 +31,9 @@ The implementation takes part with R and Python accordingly using the correspond
 
 **Supported Models**
 
-[Modeling Discrete-Time Transactions Using the BG/BB Model](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1056&context=wharton_research_scholars))
+[Modeling Discrete-Time Transactions Using the BG/BB Model](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1056&context=wharton_research_scholars)
 
-[Lifetimes Package in Python]([https://repository.upenn.edu/cgi/viewcontent.cgi?article=1056&context=wharton_research_scholars](https://lifetimes.readthedocs.io/en/latest/Quickstart.html)))
+[Lifetimes Package in Python](https://lifetimes.readthedocs.io/en/latest/Quickstart.html)
 
 
 
