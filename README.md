@@ -25,6 +25,14 @@ To fit the BG/BB model, the customer-level information has to be classified base
 
 Given these information about customer purchase behavior, we can fit the BG/BB model to describe their probability of still being active, as well as their expected number of purchases in the future conditioning on their (x, t.x, n) information.
 
+**Case Stydy R/Python**
+We use a sample dataset including 3 years transactions of customers.
+The implementation takes part with R and Python accordingly using the corresponding lifetimes packages.
+
+**Supported Models**
+[Modeling Discrete-Time Transactions Using the BG/BB Model]([https://link-url-here.org](https://repository.upenn.edu/cgi/viewcontent.cgi?article=1056&context=wharton_research_scholars))
+
+[Lifetimes Package in Python]([https://link-url-here.org]([https://repository.upenn.edu/cgi/viewcontent.cgi?article=1056&context=wharton_research_scholars](https://lifetimes.readthedocs.io/en/latest/Quickstart.html)))
 
 
 
