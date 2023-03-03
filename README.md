@@ -2,11 +2,11 @@
 
 ## Introduction
 
-** What is Customer Lifetime Value? **
+**What is Customer Lifetime Value?**
 
 Customer lifetime value (CLV) is one of the key stats likely to be tracked as part of a customer experience program. CLV is a measurement of how valuable a customer is to your company with an unlimited time span as opposed to just the first purchase. This metric helps you understand a reasonable cost per acquisition. CLV is the total worth to a business of a customer over the whole period of their relationship. It’s an important metric as it costs less to keep existing customers than it does to acquire new ones, so increasing the value of your existing customers is a great way to drive growth.
 
-** Why is it important to track customer lifetime value? **
+**Why is it important to track customer lifetime value?**
 
 * Measure in long term the financial impact of marketing campaigns
 * Enhance customers' targeting
@@ -15,17 +15,17 @@ Customer lifetime value (CLV) is one of the key stats likely to be tracked as pa
 
 There are basically two types of business context which I am going to discuss below regards to the relationship and purchase opportunities.
 
-a. ** Contractual ** - Contractual business refers to the business where there is a definite time when the customer is going to churn or we can say we know when the customer is going to be dropped. This type of customer relationship known as contractual and the customers called the subscription customers. For Ex - Hotstar, Netflix, Amazon Prime Subscription
+a. **Contractual** - Contractual business refers to the business where there is a definite time when the customer is going to churn or we can say we know when the customer is going to be dropped. This type of customer relationship known as contractual and the customers called the subscription customers. For Ex - Hotstar, Netflix, Amazon Prime Subscription
 
-b. ** Non-Contractual ** - In the non-contractual world, customers do go away, but they do so silently; they have no need to tell us they are leaving. This makes for a much trickier CLV calculation. For Ex- Retail/E-Commerce
+b. **Non-Contractual** - In the non-contractual world, customers do go away, but they do so silently; they have no need to tell us they are leaving. This makes for a much trickier CLV calculation. For Ex- Retail/E-Commerce
 
 The market store business setting is non-contractual
 
-** Purchase Opportunities Types: **
+**Purchase Opportunities Types:**
 
-a. Continuous - It refers the purchase opportunites when there is continuous purchases done by the customers.
+a. **Continuous** - It refers the purchase opportunites when there is continuous purchases done by the customers.
 
-b. Discrete - Under discrete, the purchase happened on a specific time period. For Ex- Subscription Plan
+b. **Discrete** - Under discrete, the purchase happened on a specific time period. For Ex- Subscription Plan
 
 So for our business case we have the discrete transaction opportunity, in weekly basis.
 
